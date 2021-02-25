@@ -1,0 +1,314 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-25 15:36+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\medic\templates\base.html:84
+msgid "Home"
+msgstr "Дома"
+
+#: .\medic\templates\base.html:85
+msgid "About us"
+msgstr "О нас"
+
+#: .\medic\templates\base.html:86
+msgid "Services"
+msgstr "Услуги"
+
+#: .\medic\templates\base.html:87
+msgid "Doctors"
+msgstr "Врачи"
+
+#: .\medic\templates\base.html:88
+msgid "Price"
+msgstr "Цена"
+
+#: .\medic\templates\base.html:89 .\medic\templates\base.html:636
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: .\medic\templates\base.html:90
+msgid "Contact"
+msgstr "Контакт"
+
+#: .\medic\templates\base.html:161
+msgid "Welcome to Life Care"
+msgstr "Добро пожаловать в Life Care"
+
+#: .\medic\templates\base.html:161
+msgid "We Care Your Health"
+msgstr "Мы заботимся о вашем здоровье"
+
+#: .\medic\templates\base.html:161
+msgid "We are Expert!"
+msgstr "Мы Эксперты!"
+
+#: .\medic\templates\base.html:180
+msgid "Emergency Case"
+msgstr "Экстренная ситуация"
+
+#: .\medic\templates\base.html:181 .\medic\templates\base.html:206
+#, fuzzy
+#| msgid ""
+#| "Dignissimos ducimus qui blanditii sentium volta tum deleniti atque "
+#| "coriasquos dolores et quas mole."
+msgid "Dignissimos ducimus qui blanditii sentium volta tum"
+msgstr ""
+"Деленити лестью, срочностью, а также теми, кого мы считаем достойными, и "
+"волей Coriasquos боль и размер."
+
+#: .\medic\templates\base.html:182 .\medic\templates\base.html:207
+#, fuzzy
+#| msgid ""
+#| "Dignissimos ducimus qui blanditii sentium volta tum deleniti atque "
+#| "coriasquos dolores et quas mole."
+msgid "deleniti atque coriasquos dolores et quas mole."
+msgstr ""
+"Деленити лестью, срочностью, а также теми, кого мы считаем достойными, и "
+"волей Coriasquos боль и размер."
+
+#: .\medic\templates\base.html:190
+msgid "Working Hours"
+msgstr "Рабочее время"
+
+#: .\medic\templates\base.html:193
+msgid "Monday - Friday"
+msgstr "Понедельник Пятница"
+
+#: .\medic\templates\base.html:194
+msgid "Saturday"
+msgstr "Суббота"
+
+#: .\medic\templates\base.html:195
+msgid "Sunday"
+msgstr "воскресенье"
+
+#: .\medic\templates\base.html:205
+msgid "Clinic Timetable"
+msgstr "Расписание клиники"
+
+#: .\medic\templates\base.html:217 .\medic\templates\base.html:468
+msgid "The Specialist Clinic"
+msgstr "Специализированная клиника"
+
+#: .\medic\templates\base.html:223
+msgid "What We Do"
+msgstr "Что мы делаем"
+
+#: .\medic\templates\base.html:224
+#, fuzzy
+#| msgid "Services"
+msgid "Clinic Service"
+msgstr "Услуги"
+
+#: .\medic\templates\base.html:225
+msgid "Quisque eget nisl id nulla sagittis auctor quis id."
+msgstr ""
+
+#: .\medic\templates\base.html:226
+#, fuzzy
+#| msgid ""
+#| "Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula "
+#| "enim, nonaliquam risus. Sed a tellus quis mi rhoncus dignissim."
+msgid ""
+"Aliquam quis vehicula enim, nonaliquam risus. Sed a tellus quis mi rhoncus "
+"dignissim."
+msgstr ""
+"Quisque eget nisl id nulla sagittis auctor quis id. Последний автомобиль Он "
+"смех nonaliquam. Но что за неделю, мой оранжевый футбол"
+
+#: .\medic\templates\base.html:227
+msgid ""
+"Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed "
+"tellus faucibus"
+msgstr ""
+"Целое число rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh "
+"sed Tellus faucibus"
+
+#: .\medic\templates\base.html:228
+msgid ""
+"bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque "
+"penatibus et magnis dis"
+msgstr ""
+"бибендум. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque "
+"penatibus et magnis dis"
+
+#: .\medic\templates\base.html:229
+msgid "parturient montes, nascetur ridiculus mus."
+msgstr "но, мгновенно."
+
+#: .\medic\templates\base.html:230
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: .\medic\templates\base.html:254 .\medic\templates\base.html:287
+msgid "Digital Control Center"
+msgstr "Центр цифрового управления"
+
+#: .\medic\templates\base.html:265
+msgid "Hygienic Operating Room"
+msgstr "Гигиеническая операционная"
+
+#: .\medic\templates\base.html:276
+msgid "Specialist Physicians"
+msgstr "Врачи-специалисты"
+
+#: .\medic\templates\base.html:305
+msgid "PREMIUM FACILITIES"
+msgstr "ПРЕМИУМ ОБЪЕКТЫ"
+
+#: .\medic\templates\base.html:306 .\medic\templates\base.html:314
+#: .\medic\templates\base.html:323 .\medic\templates\base.html:331
+#: .\medic\templates\base.html:339 .\medic\templates\base.html:347
+msgid "Lorem Ipsum is simply dummy text of the printing."
+msgstr "Lorem Ipsum - это просто фиктивный текст печати."
+
+#: .\medic\templates\base.html:313
+msgid "LARGE LABORATORY"
+msgstr "БОЛЬШАЯ ЛАБОРАТОРИЯ"
+
+#: .\medic\templates\base.html:322
+msgid "DETAILED SPECIALIST"
+msgstr "ПОДРОБНЫЙ СПЕЦИАЛИСТ"
+
+#: .\medic\templates\base.html:330
+msgid "CHILDREN CARE CENTER"
+msgstr "ЦЕНТР УХОДА ЗА ДЕТЯМИ"
+
+#: .\medic\templates\base.html:338
+msgid "FINE INFRASTRUCTURE"
+msgstr "ПРЕКРАСНАЯ ИНФРАСТРУКТУРА"
+
+#: .\medic\templates\base.html:346
+msgid "ANYTIME BLOOD BANK"
+msgstr "ВСЕГДА БАНК КРОВИ"
+
+#: .\medic\templates\base.html:355
+msgid "Book Appointment"
+msgstr "Запись на прием"
+
+#: .\medic\templates\base.html:643 .\medic\templates\base.html:679
+msgid "The amazing clinic! Wonderful Support!"
+msgstr "Удивительная клиника! Замечательная поддержка!"
+
+#: .\medic\templates\base.html:644 .\medic\templates\base.html:660
+#: .\medic\templates\base.html:680 .\medic\templates\base.html:696
+msgid ""
+"They have got my project on time with the competition with a sed highly "
+"skilled,"
+msgstr ""
+"Они получили мой проект вовремя с конкурсом с высоким рейтингом опытный,"
+
+#: .\medic\templates\base.html:645 .\medic\templates\base.html:661
+#: .\medic\templates\base.html:681 .\medic\templates\base.html:697
+msgid "and experienced & professional team."
+msgstr "и опытная и профессиональная команда."
+
+#: .\medic\templates\base.html:649
+msgid "James Fernando"
+msgstr "Джеймс Фернандо"
+
+#: .\medic\templates\base.html:649 .\medic\templates\base.html:685
+msgid "Manager of Racer"
+msgstr "Менеджер Racer"
+
+#: .\medic\templates\base.html:659 .\medic\templates\base.html:695
+msgid "Thanks for Help us!"
+msgstr "Спасибо за помощь!"
+
+#: .\medic\templates\base.html:665
+msgid "Andrew Atkinson"
+msgstr "Эндрю Аткинсон"
+
+#: .\medic\templates\base.html:665
+msgid "Life Manager"
+msgstr "Менеджер по жизни"
+
+#: .\medic\templates\base.html:685
+msgid "Amanda DOE"
+msgstr "Аманда Доу"
+
+#: .\medic\templates\base.html:701
+msgid "Martin Johnson"
+msgstr "Мартин Джонсон"
+
+#: .\medic\templates\base.html:701
+msgid "Founder of Goosilo"
+msgstr "Основатель Goosilo"
+
+#: .\medic\templates\base.html:718
+msgid "Get in Touch"
+msgstr "Связаться"
+
+#: .\medic\templates\base.html:771
+msgid ""
+"Locavore pork belly scen ester pine est chill wave microdosing pop uple "
+"itarian cliche artisan."
+msgstr ""
+"Locavore Ароматизатор для свиной грудинки Pine Est Chill Wave для "
+"микродозирования итальянский мастер клише"
+
+#: .\medic\templates\base.html:776
+msgid "CONTACT US"
+msgstr "СВЯЗАТЬСЯ С НАМИ"
+
+#: .\medic\templates\base.html:777
+msgid "PO Box"
+msgstr "Почтовый ящик"
+
+#: .\medic\templates\base.html:777
+msgid "Collins Street West Victoria"
+msgstr "Коллинз-стрит Вест Виктория"
+
+#: .\medic\templates\base.html:778
+msgid "Australia"
+msgstr "Австралия"
+
+#: .\medic\templates\base.html:785
+msgid "SUBSCRIBE"
+msgstr "ПОДПИСЫВАТЬСЯ"
+
+#: .\medic\templates\base.html:786
+msgid "Get healthy news, tip and solutions to your problems from our experts."
+msgstr ""
+"Получайте полезные новости, советы и решения своих проблем от наших "
+"экспертов."
+
+#: .\medic\templates\base.html:820
+msgid "Power by Diamond Solutions"
+msgstr "Мощность от Diamond Solutions"
+
+#: .\mysite\settings.py:127
+msgid "English"
+msgstr ""
+
+#: .\mysite\settings.py:128
+msgid "Руский"
+msgstr ""
+
+#~ msgid ""
+#~ "Dignissimos ducimus qui blanditii sentium volta tum deleniti atque cori "
+#~ "as quos dolores et quas mole."
+#~ msgstr ""
+#~ "Лесть, безотлагательность и стремительность ванны, а также те, кого мы "
+#~ "считаем достойными деленити, как И основная масса этих болей."
+
+#~ msgid "Salom"
+#~ msgstr "Privet"

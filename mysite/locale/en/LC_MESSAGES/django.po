@@ -1,0 +1,276 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-25 15:36+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\medic\templates\base.html:84
+msgid "Home"
+msgstr ""
+
+#: .\medic\templates\base.html:85
+msgid "About us"
+msgstr ""
+
+#: .\medic\templates\base.html:86
+msgid "Services"
+msgstr ""
+
+#: .\medic\templates\base.html:87
+msgid "Doctors"
+msgstr ""
+
+#: .\medic\templates\base.html:88
+msgid "Price"
+msgstr ""
+
+#: .\medic\templates\base.html:89 .\medic\templates\base.html:636
+msgid "Testimonials"
+msgstr ""
+
+#: .\medic\templates\base.html:90
+msgid "Contact"
+msgstr ""
+
+#: .\medic\templates\base.html:161
+msgid "Welcome to Life Care"
+msgstr ""
+
+#: .\medic\templates\base.html:161
+msgid "We Care Your Health"
+msgstr ""
+
+#: .\medic\templates\base.html:161
+msgid "We are Expert!"
+msgstr ""
+
+#: .\medic\templates\base.html:180
+msgid "Emergency Case"
+msgstr ""
+
+#: .\medic\templates\base.html:181 .\medic\templates\base.html:206
+msgid "Dignissimos ducimus qui blanditii sentium volta tum"
+msgstr ""
+
+#: .\medic\templates\base.html:182 .\medic\templates\base.html:207
+msgid "deleniti atque coriasquos dolores et quas mole."
+msgstr ""
+
+#: .\medic\templates\base.html:190
+msgid "Working Hours"
+msgstr ""
+
+#: .\medic\templates\base.html:193
+msgid "Monday - Friday"
+msgstr ""
+
+#: .\medic\templates\base.html:194
+msgid "Saturday"
+msgstr ""
+
+#: .\medic\templates\base.html:195
+msgid "Sunday"
+msgstr ""
+
+#: .\medic\templates\base.html:205
+msgid "Clinic Timetable"
+msgstr ""
+
+#: .\medic\templates\base.html:217 .\medic\templates\base.html:468
+msgid "The Specialist Clinic"
+msgstr ""
+
+#: .\medic\templates\base.html:223
+msgid "What We Do"
+msgstr ""
+
+#: .\medic\templates\base.html:224
+msgid "Clinic Service"
+msgstr ""
+
+#: .\medic\templates\base.html:225
+msgid "Quisque eget nisl id nulla sagittis auctor quis id."
+msgstr ""
+
+#: .\medic\templates\base.html:226
+msgid ""
+"Aliquam quis vehicula enim, nonaliquam risus. Sed a tellus quis mi rhoncus "
+"dignissim."
+msgstr ""
+
+#: .\medic\templates\base.html:227
+msgid ""
+"Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed "
+"tellus faucibus"
+msgstr ""
+
+#: .\medic\templates\base.html:228
+msgid ""
+"bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque "
+"penatibus et magnis dis"
+msgstr ""
+
+#: .\medic\templates\base.html:229
+msgid "parturient montes, nascetur ridiculus mus."
+msgstr ""
+
+#: .\medic\templates\base.html:230
+msgid "Learn More"
+msgstr ""
+
+#: .\medic\templates\base.html:254 .\medic\templates\base.html:287
+msgid "Digital Control Center"
+msgstr ""
+
+#: .\medic\templates\base.html:265
+msgid "Hygienic Operating Room"
+msgstr ""
+
+#: .\medic\templates\base.html:276
+msgid "Specialist Physicians"
+msgstr ""
+
+#: .\medic\templates\base.html:305
+msgid "PREMIUM FACILITIES"
+msgstr ""
+
+#: .\medic\templates\base.html:306 .\medic\templates\base.html:314
+#: .\medic\templates\base.html:323 .\medic\templates\base.html:331
+#: .\medic\templates\base.html:339 .\medic\templates\base.html:347
+msgid "Lorem Ipsum is simply dummy text of the printing."
+msgstr ""
+
+#: .\medic\templates\base.html:313
+msgid "LARGE LABORATORY"
+msgstr ""
+
+#: .\medic\templates\base.html:322
+msgid "DETAILED SPECIALIST"
+msgstr ""
+
+#: .\medic\templates\base.html:330
+msgid "CHILDREN CARE CENTER"
+msgstr ""
+
+#: .\medic\templates\base.html:338
+msgid "FINE INFRASTRUCTURE"
+msgstr ""
+
+#: .\medic\templates\base.html:346
+msgid "ANYTIME BLOOD BANK"
+msgstr ""
+
+#: .\medic\templates\base.html:355
+msgid "Book Appointment"
+msgstr ""
+
+#: .\medic\templates\base.html:643 .\medic\templates\base.html:679
+msgid "The amazing clinic! Wonderful Support!"
+msgstr ""
+
+#: .\medic\templates\base.html:644 .\medic\templates\base.html:660
+#: .\medic\templates\base.html:680 .\medic\templates\base.html:696
+msgid ""
+"They have got my project on time with the competition with a sed highly "
+"skilled,"
+msgstr ""
+
+#: .\medic\templates\base.html:645 .\medic\templates\base.html:661
+#: .\medic\templates\base.html:681 .\medic\templates\base.html:697
+msgid "and experienced & professional team."
+msgstr ""
+
+#: .\medic\templates\base.html:649
+msgid "James Fernando"
+msgstr ""
+
+#: .\medic\templates\base.html:649 .\medic\templates\base.html:685
+msgid "Manager of Racer"
+msgstr ""
+
+#: .\medic\templates\base.html:659 .\medic\templates\base.html:695
+msgid "Thanks for Help us!"
+msgstr ""
+
+#: .\medic\templates\base.html:665
+msgid "Andrew Atkinson"
+msgstr ""
+
+#: .\medic\templates\base.html:665
+msgid "Life Manager"
+msgstr ""
+
+#: .\medic\templates\base.html:685
+msgid "Amanda DOE"
+msgstr ""
+
+#: .\medic\templates\base.html:701
+msgid "Martin Johnson"
+msgstr ""
+
+#: .\medic\templates\base.html:701
+msgid "Founder of Goosilo"
+msgstr ""
+
+#: .\medic\templates\base.html:718
+msgid "Get in Touch"
+msgstr ""
+
+#: .\medic\templates\base.html:771
+msgid ""
+"Locavore pork belly scen ester pine est chill wave microdosing pop uple "
+"itarian cliche artisan."
+msgstr ""
+
+#: .\medic\templates\base.html:776
+msgid "CONTACT US"
+msgstr ""
+
+#: .\medic\templates\base.html:777
+msgid "PO Box"
+msgstr ""
+
+#: .\medic\templates\base.html:777
+msgid "Collins Street West Victoria"
+msgstr ""
+
+#: .\medic\templates\base.html:778
+msgid "Australia"
+msgstr ""
+
+#: .\medic\templates\base.html:785
+msgid "SUBSCRIBE"
+msgstr ""
+
+#: .\medic\templates\base.html:786
+msgid "Get healthy news, tip and solutions to your problems from our experts."
+msgstr ""
+
+#: .\medic\templates\base.html:820
+msgid "Power by Diamond Solutions"
+msgstr ""
+
+#: .\mysite\settings.py:127
+msgid "English"
+msgstr ""
+
+#: .\mysite\settings.py:128
+msgid "Руский"
+msgstr ""
+
+#~ msgid "Salom"
+#~ msgstr "Hello"
